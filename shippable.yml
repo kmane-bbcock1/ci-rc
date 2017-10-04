@@ -5,6 +5,5 @@ compiler: gcc
 build:
   ci:
     - echo "helo world!"
-    - lsssffwrfe fsffwffaew
-    
+   
   cache: true
