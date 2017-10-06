@@ -6,5 +6,6 @@ build:
   ci:
     - echo "helo world!!"
     - echo "okay"
+    - echo "from owner"
    
   cache: true
